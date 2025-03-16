@@ -1,5 +1,5 @@
-![GitHub Streak](https://streak-stats.demolab.com/?user=malav2364&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malav2364&layout=compact&theme=radical)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=malav2364&theme=github-dark)
 
 <!--
 **Malav2364/malav2364** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
