@@ -1,10 +1,19 @@
-# Hey There, Malav here
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malav2364&layout=compact&theme=radical)
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=malav2364&theme=github-dark)
-### Top Skills:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Prisma ORM](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+<p align="center">
+
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=malav2364&layout=compact&hide_border=false&theme=radical&bg_color=003366&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=malav2364&theme=radical&hide_border=false&background=003366">
+  <br>
+</p>
+
+<!-- <p align="center">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=ytdx">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=pixel-weather">
+</p> -->
+
+
 <!--
-**Malav2364/malav2364** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aveek-Saha/aveek-saha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
